@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetcan4343&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetcan4343" /> </p>
 
-- 🔭 I’m currently working on **Barber appointment system**
-
 - 🌱 I’m currently learning **.NET , React Native**
 
 - 👨‍💻 All of my projects are available at [mehmetcan.info.tr](mehmetcan.info.tr)
